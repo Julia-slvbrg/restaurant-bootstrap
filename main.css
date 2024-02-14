@@ -26,7 +26,7 @@ body{
     background-color: #ffeae6;
 }
 .carousel-item img{
-    height: 620px;
+    height: 80vh;
     width: 100%;
 }
 .colored-text{
@@ -47,6 +47,7 @@ body{
 .socials-links a{
     text-decoration: none;
 }
+
 
 @media screen and (max-width: 767px){
     .carousel-item img{
